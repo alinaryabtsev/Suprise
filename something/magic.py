@@ -1,5 +1,5 @@
 from selenium import webdriver
-from Suprise.something.very_important import url_address, msg
+from something.very_important import url_address, msg
 
 
 def do_something():

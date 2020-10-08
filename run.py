@@ -1,4 +1,4 @@
-from Suprise.something import magic
+from something import magic
 
 
 def main():
